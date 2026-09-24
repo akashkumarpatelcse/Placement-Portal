@@ -1,0 +1,5 @@
+# Node.js dependencies - GitHub par upload nahi karna
+node_modules/
+
+# Environment variables / secret keys
+.env
