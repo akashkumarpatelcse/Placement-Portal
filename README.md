@@ -1,20 +1,51 @@
-# Placement Portal
+## ✨ Project Overview
 
-A full-stack web application for managing placement-related activities.
+Placement Portal is a full-stack web application developed using
+modern web technologies.
 
-## Technologies Used
+The main goal of this project is to provide a simple platform where
+students can manage their profiles and placement-related information.
 
-- React
-- Node.js
-- Express.js
-- MongoDB
+---
 
-## Project Structure
+## 🛠️ Tech Stack
 
-- frontend
-- backend
-- database
+| Technology | Purpose |
+|------------|---------|
+| ⚛️ React | Frontend / User Interface |
+| 🟢 Node.js | Backend Runtime |
+| 🚂 Express.js | Backend API |
+| 🍃 MongoDB | Database |
+| 🔗 Git & GitHub | Version Control |
 
-## Project Status
+---
 
-🚧 Currently under development.
+## 📌 Current Features
+
+- 🔐 Student Login
+- 👤 Student Profile
+- 🧑‍💻 Skills Management
+- 📊 Placement Information
+- 🗄️ MongoDB Database
+- 🔌 REST API
+- 🌐 React Frontend
+
+> 🚧 Project is currently under development.
+
+---
+
+## 📁 Project Structure
+
+```text
+Placement-Portal/
+│
+├── frontend/        # React frontend
+│
+├── backend/         # Node.js + Express backend
+│
+├── database/        # MongoDB connection and models
+│
+├── README.md        # Project documentation
+│
+├── package.json
+└── package-lock.json
